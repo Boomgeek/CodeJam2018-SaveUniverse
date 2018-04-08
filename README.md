@@ -46,21 +46,21 @@ No additional restrictions to the Limits section.
 ## Sample
 
 ### Input 
-6
-1 CS
-2 CS
-1 SS
-6 SCCSSC
-2 CC
-3 CSCSS
+6<br />
+1 CS<br />
+2 CS<br />
+1 SS<br />
+6 SCCSSC<br />
+2 CC<br />
+3 CSCSS<br />
 
 ### Output 
-Case #1: 1
-Case #2: 0
-Case #3: IMPOSSIBLE
-Case #4: 2
-Case #5: 0
-Case #6: 5
+Case #1: 1<br />
+Case #2: 0<br />
+Case #3: IMPOSSIBLE<br />
+Case #4: 2<br />
+Case #5: 0<br />
+Case #6: 5<br />
 
 ### Note that the last three sample cases would not appear in test set 1.
 
